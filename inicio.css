@@ -1,0 +1,92 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+#letra1{
+  padding-top: 28.5px;
+}
+#letra2{
+  padding-top: 36px;
+}
+svg{
+  float: center;
+}
+
+p{
+  text-align: justify;
+}
+
+#logo{
+  width: 50px;
+  height: 50px;
+}
+
+#carousel .overlay{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(250,250,250,0.5); 
+  color: #055A68;
+}
+
+
+#carousel .overlay a{
+  color: #252020;
+}
+#main .carousel-inner img{
+  max-height: 93vh;
+
+}
+
+#img1{
+  margin-top: 45px;
+  margin-left: 35px;
+}
+#img2{
+  margin-top: 35px;
+  margin-left: 35px;
+}
+#img3{
+  margin-left: 35px;
+}
+#info{
+  width: 525px;
+  height: 350px;
+}
+#h1juegos, #precio{
+  size: 60px;
+  font-family: Century Gothic;
+  text-align: center;
+  color: #28A745;
+}
+#mialbum{
+  width: 100%;
+  height: 225px;
+}
+#mialbum2{
+  width: 100%;
+  height: 260px;
+}
+#footer{
+  padding: 0px;
+  margin: 0px;
+  background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+}
+#footer a{
+  color:white;
+}
+#place-time img{
+  max-width: 100%;
+}
+
+#place-time{
+  background-color: #212529;
+  color: white;
+} 
